@@ -1,6 +1,6 @@
 🐣 Visite meu blog https://www.aibauru.com.br <br />
 🔥 Olhe minha loja  https://loja.aibauru.com.br <br />
-🥳 SIga meu  TikTok https://www.tiktok.com/@aibauru <br />
+🥳 Siga meu  TikTok https://www.tiktok.com/@aibauru <br />
 
 #### 🔥 Active Repos 🔥 ####
 
