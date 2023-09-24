@@ -4,8 +4,8 @@
 
 #### 🔥 Active Repos 🔥 ####
 
-👯 https://github.com/jhmendonca/automatic1111 WEBUI para o Stable Diffusion
-🥳 https://github.com/jhmendonca/Fooocus Gere imagens realistas com o Fooocus, funciona no Colab FREE !!! 🥳🥳🥳🥳🥳🥳
+👯 https://github.com/jhmendonca/automatic1111 WEBUI para o Stable Diffusion  <br />
+🥳 https://github.com/jhmendonca/Fooocus Gere imagens realistas com o Fooocus, funciona no Colab FREE !!! 🥳🥳🥳🥳🥳🥳  <br />
 <!--
 **jhmendonca/jhmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
