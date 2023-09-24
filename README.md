@@ -1,4 +1,6 @@
-### Hi there 👋
+🐣 Me ajuda visitando meu blog https://www.aibauru.com.br <br />
+🔥 Me ajude visitando minha loja  https://www.aibauru.com.br <br />
+🥳 Me ajude se inscrevendo em meu  TikTok https://www.tiktok.com/@aibauru <br />
 
 <!--
 **jhmendonca/jhmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
