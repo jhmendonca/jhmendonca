@@ -1,5 +1,5 @@
 🐣 Me ajuda visitando meu blog https://www.aibauru.com.br <br />
-🔥 Me ajude visitando minha loja  https://www.aibauru.com.br <br />
+🔥 Me ajude visitando minha loja  https://loja.aibauru.com.br <br />
 🥳 Me ajude se inscrevendo em meu  TikTok https://www.tiktok.com/@aibauru <br />
 
 <!--
